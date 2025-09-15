@@ -1,4 +1,4 @@
-import profileImage from '../assets/hero_img.jpg';
+import profileImage from '../assets/sumit.jpg';
 import { motion } from 'framer-motion';
 
 

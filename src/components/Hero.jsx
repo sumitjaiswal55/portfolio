@@ -1,4 +1,4 @@
-import profileImage from '../assets/hero_img.jpg';
+import profileImage from '../assets/image2.jpg';
 import {FaInstagram, FaLinkedinIn, FaGithub } from 'react-icons/fa';
 import { motion } from 'framer-motion';
 

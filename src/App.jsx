@@ -8,7 +8,7 @@ import Education from './components/Education'
 import Contact from './components/Contact'
 import Loader from './components/Loader'
 import Certification from './components/Certification'
-
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -24,6 +24,7 @@ function App() {
         <Certification />
         <Education />
         <Contact />
+        <Footer />
       </main>
     </div>
   )
